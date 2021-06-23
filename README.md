@@ -31,5 +31,16 @@
 </com.google.android.material.textfield.TextInputLayout>
 ```
 
-| ![](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow/blob/master/preview/example1.jpg) | ![](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow/blob/master/preview/example2.jpg) |
-|:--|:--|
+Preview :
+
+| ![](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow/blob/master/preview/example1.jpg) |
+|:--|
+
+| ![](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow/blob/master/preview/example2.jpg) |
+|:--|
+
+---
+
+```
+Copyright 2021 M. Fadli Zein
+```
