@@ -36,6 +36,8 @@ Preview :
 | ![](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow/blob/master/preview/example2.jpg) |
 |:--|
 
+---
+
 ```xml
 style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu"
 ```
